@@ -1,5 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Redressed&display=swap');
+
+
 body{
     font: 20 px Verdana, sans-serif;
+    
 }
 
 .navbar{
@@ -29,4 +33,12 @@ body{
     background-color: palevioletred;
     color: rgba(46, 26, 26, 0.966);
 
+}
+@font-face {
+    src: url(fonts/Raleway-Regular.ttf);
+    font-family: 'Redressed', cursive;    
+    font-weight: normal;
+} 
+body{
+	font-family: 'Redressed', cursive; 
 }
