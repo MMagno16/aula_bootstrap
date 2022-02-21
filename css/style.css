@@ -1,0 +1,32 @@
+body{
+    font: 20 px Verdana, sans-serif;
+}
+
+.navbar{
+    background-color: palevioletred;
+}
+
+.quem-somos{
+    background-color: white;
+    color: rgba(46, 26, 26, 0.966);
+}
+
+.margin{
+    padding-bottom: 50px;
+    padding-top: 20px;
+}
+
+.Personagens{
+    background-color: white;
+    color: rgba(44, 9, 9, 0.911);
+
+}
+.filme{
+    background-color: white;
+    color: rgba(46, 26, 26, 0.966);
+}
+.bg-footer{
+    background-color: palevioletred;
+    color: rgba(46, 26, 26, 0.966);
+
+}
